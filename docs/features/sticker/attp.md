@@ -4,9 +4,9 @@ Command ini berfungsi untuk mengubah text menjadi sticker bergerak.
 
 |                       Info                        |      |
 | :-----------------------------------------------: | :--: |
-| <div class="label license nitro">Only Nitro</div> |  ✅  |
+| <div class="label license nitro">Only Nitro</div> |  ❌  |
 |                Menggunakan Prefix                 |  ✅  |
-|                 Menggunakan limit                 |  ✅  |
+|                 Menggunakan limit                 |  ❌  |
 |                    Hanya Owner                    |  ❌  |
 |                   Hanya Premium                   |  ❌  |
 |                    Hanya Group                    |  ❌  |
